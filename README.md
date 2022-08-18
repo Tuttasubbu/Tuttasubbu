@@ -15,4 +15,7 @@ Skills
 Technical Stack currently using:
 Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick, Natural language tool kit, Spacy.
 
+•Contact me on:
+LinkedIn : https://www.linkedin.com/in/subrahmanyatutta/
+
 
